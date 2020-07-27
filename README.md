@@ -3,4 +3,4 @@ Creates the mandelbrot image.
 
 ## Output
 
-![Screen](https://github.com/MrPoudel/Mandelbrot/blob/master/test.png)
+![Screen](https://github.com/MrPoudel/Mandelbrot/blob/master/test.bmp)
